@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
-  "versionName": "0.2.0",
+  "versionCode": 3,
+  "versionName": "0.2.1",
   "apkUrl": "https://github.com/ramonvictorino-dotcom/viewdeck/releases/latest/download/ViewDeck.apk",
-  "notes": "New: scan your network for IP cameras (ONVIF + RTSP) and add them without typing URLs; RTSP/Hikvision diagnostics now show real connection stages."
+  "notes": "TV navigation fixes: add-camera form scrolls to Save, fields are D-pad navigable, password reveal button, BACK closes forms. Plus network-scan hints and more reliable update checks."
 }
