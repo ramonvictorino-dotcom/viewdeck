@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "0.2.1",
+  "versionCode": 4,
+  "versionName": "0.2.2",
   "apkUrl": "https://github.com/ramonvictorino-dotcom/viewdeck/releases/latest/download/ViewDeck.apk",
-  "notes": "TV navigation fixes: add-camera form scrolls to Save, fields are D-pad navigable, password reveal button, BACK closes forms. Plus network-scan hints and more reliable update checks."
+  "notes": "Hikvision camera fix (correct RTSP path) and a fix for the update check HTTP 429 error."
 }
