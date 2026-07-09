@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "0.2.2",
+  "versionCode": 5,
+  "versionName": "0.2.3",
   "apkUrl": "https://github.com/ramonvictorino-dotcom/viewdeck/releases/latest/download/ViewDeck.apk",
-  "notes": "Hikvision camera fix (correct RTSP path) and a fix for the update check HTTP 429 error."
+  "notes": "Hikvision/RTSP cameras now play via libVLC (reliable digest auth + H.265). Larger APK (~52MB) due to bundled VLC video libraries."
 }
