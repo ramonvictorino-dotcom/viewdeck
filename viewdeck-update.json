@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "0.2.4",
+  "versionCode": 7,
+  "versionName": "0.2.5",
   "apkUrl": "https://github.com/ramonvictorino-dotcom/viewdeck/releases/latest/download/ViewDeck.apk",
-  "notes": "New: UniFi Protect integration \u2014 add all your UniFi cameras with a console IP + API key (plays via libVLC). Same-network; remote needs a tunnel."
+  "notes": "UniFi Protect remote viewing (public IP / DDNS / Tailscale) + RTSP/H.265 tiles no longer stuck on BUFFERING."
 }
