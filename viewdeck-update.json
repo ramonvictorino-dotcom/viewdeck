@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "0.2.5",
+  "versionCode": 8,
+  "versionName": "0.2.6",
   "apkUrl": "https://github.com/ramonvictorino-dotcom/viewdeck/releases/latest/download/ViewDeck.apk",
-  "notes": "UniFi Protect remote viewing (public IP / DDNS / Tailscale) + RTSP/H.265 tiles no longer stuck on BUFFERING."
+  "notes": "UniFi Protect one-tap \"Add all cameras\" (import every camera with one IP + key entry, like Wyze)."
 }
