@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "0.2.3",
+  "versionCode": 6,
+  "versionName": "0.2.4",
   "apkUrl": "https://github.com/ramonvictorino-dotcom/viewdeck/releases/latest/download/ViewDeck.apk",
-  "notes": "Hikvision/RTSP cameras now play via libVLC (reliable digest auth + H.265). Larger APK (~52MB) due to bundled VLC video libraries."
+  "notes": "New: UniFi Protect integration \u2014 add all your UniFi cameras with a console IP + API key (plays via libVLC). Same-network; remote needs a tunnel."
 }
